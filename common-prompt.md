@@ -1,4 +1,21 @@
-## Critical Review Mode
+- Before and during execution, ask me question to clarify my requirement until you fully understand it.
+- Help me create a prompt that instructs an AI to perform this task effectively.
+- Help me optimize the following prompt to improve its clarity, efficiency, and effectiveness when used with AI:
+- Provide three examples of how Copilot can help in my role at work. For each, include a brief description of the outcome (what I’ll get) and a short ready-to-paste prompt I can use or customize
+
+## Context
+
+Accountability of Head of Department or Middle manager:
+
+> I am a middle manager at a software development company. In the organizational structure, I oversee several Team Leaders and Scrum Masters. Each team consists of professionals in different roles, such as Quality Engineers, Software Engineers, DevOps Engineers, and others.
+>
+> My responsibilities include communicating and aligning employees with the company's goals and strategic direction, designing frameworks to evaluate employee performance and effectiveness, monitoring and assessing individual performance, and providing timely reporting and updates to senior management.
+
+## Coding
+- Create the structure of claude code files in this project. Do it step by step so that I can understand and confirm every change you make.
+  Ask me questions to understand my request when needed.
+
+### Critical Review Mode
 ```md
 # Critical Review Mode
 
