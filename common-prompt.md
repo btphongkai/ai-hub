@@ -98,3 +98,32 @@ The expected outcome is an honest assessment of:
 - Its scalability risks
 - The most effective path toward a simpler, more correct, and more scalable system
 ```
+
+
+## Design
+
+```md
+Compare this design against [Design project] to identify any differences from the rules, patterns, and design principles defined in the reference design system.
+Highlight all deviations, inconsistencies, or missing requirements.
+Then update and refine the design system as needed to ensure strict compliance with those standards, including established design principles, UI patterns, component usage guidelines, layout conventions, accessibility requirements, and visual consistency rules.
+The final result should align fully with the reference specifications, with no conflicting rules or implementations remaining.
+```
+
+```md
+Conduct a comprehensive review of every page and ensure full compliance with the standards, rules, UI patterns, design guidelines, and established conventions defined in [Design project].
+Correct any deviations or inconsistencies found.
+```
+
+```md
+Perform a comprehensive consistency audit across all pages and against [Design Project].
+Verify that identical component types (buttons, tables, forms, cards, modals, navigation elements, etc.) follow the same visual standards, behavior patterns, and styling rules.
+Consolidate duplicated implementations into shared reusable components and shared design tokens/styles.
+Ensure that updates made to shared components or shared styles are reflected consistently across all dependent pages to prevent design drift and maintenance overhead.
+
+
+Check and consolidate duplicated implementations into shared reusable components and shared design tokens/styles.
+Ensure that updates made to shared components or shared styles are reflected consistently across all dependent places to prevent design drift and maintenance overhead.
+```
+
+
+
